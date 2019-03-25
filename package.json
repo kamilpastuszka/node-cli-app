@@ -1,0 +1,14 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "description": "Node CLI example that displays capitol for selected country",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamil Pastuszka",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.0"
+  }
+}
